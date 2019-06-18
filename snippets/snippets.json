@@ -1,7 +1,7 @@
 {
   "nextPage": {
     "scope": "javascript,typescript",
-    "prefix": "taroPage",
+    "prefix": "nextPage",
     "body": [
       "import React from 'react';",
       "import Layout from '../../components/layout';",
