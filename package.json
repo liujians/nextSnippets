@@ -2,7 +2,7 @@
   "name": "next-snippets",
   "displayName": "nextSnippets",
   "description": "next的用户代码片段",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "liujians",
   "engines": {
     "vscode": "^1.35.0"
@@ -14,6 +14,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liujians/nextSnippets.git"
+  },
   "icon": "images/logo.png",
   "contributes": {
     "snippets": [
