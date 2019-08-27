@@ -2,7 +2,7 @@
   "name": "next-snippets",
   "displayName": "nextSnippets",
   "description": "next的用户代码片段",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "publisher": "liujians",
   "engines": {
     "vscode": "^1.35.0"
